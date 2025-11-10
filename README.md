@@ -78,3 +78,6 @@ I built a simple machine learning model to predict taxi fares based on:
 - Where the passenger is getting picked up
 
 ![alt text](img/lr.png)
+
+### Other evidence
+![alt text](img/successful_pipeline.png)
